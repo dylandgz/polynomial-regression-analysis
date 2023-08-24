@@ -1,4 +1,4 @@
-
+# polynomial-regression-analysis
 Polynomial regression model analysis and testing using batch gradient descent. The code supports various functionalities including polynomial feature generation, mean squared error calculation, learning curve analysis, and model evaluation.
 
 1. **Polynomial Feature Generation:**
