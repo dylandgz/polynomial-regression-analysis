@@ -31,4 +31,4 @@ Polynomial regression model analysis and testing using batch gradient descent. T
 8. **Feature Dropping Experiment:**
    - Certain features are dropped from the dataset to observe their impact on model performance.
    - Hyperparameter tuning and learning curve analysis are repeated on the modified dataset.
-   - 
+
